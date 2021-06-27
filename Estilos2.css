@@ -1,0 +1,49 @@
+#ContenedorPrincipal
+{
+    height: 100vh;
+}
+#ImgView
+{
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+#div1
+{
+    padding:  0.5em;
+    margin-left: 0%;
+    padding-left: 18%;
+}
+#H5x
+{
+    align-content: left;
+    margin-left: 15px;
+    margin-top: 2%;
+    margin-bottom: 15px;
+}
+#divfinal
+{
+    padding-top: 1px;
+    padding-left: 2%;
+}
+#FormEstudiante
+{
+    text-align: left;
+    font-size: smaller;
+}
+#Button
+{
+    width: 15%;
+}
+#Dcard1
+{
+    background-color: rgb(228, 228, 228);
+}
+#LinkPagPrincipal
+{
+    margin-top: 0px;
+    margin-left: 15px;
+    padding-top: 2%;
+    margin-bottom: 15px;
+}

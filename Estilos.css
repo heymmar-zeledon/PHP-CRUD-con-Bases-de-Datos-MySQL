@@ -1,0 +1,60 @@
+#F
+{
+    justify-content: center;
+}
+#FormEstudiante
+{
+    text-align: left;
+    font-size: smaller;
+}
+#Codigo
+{
+    width: 40%;
+}
+#email
+{
+    width: 65%;
+}
+#name1
+{
+    width: 80%;
+}
+#Edad
+{
+    width: 27%;
+}
+#Curso
+{
+    width: min-content;
+}
+#Foto
+{
+    border-width: 2px;
+    border-color:olivedrab;
+    border-style:dashed;
+    width: 70%;
+}
+#Button
+{
+    width: 45%;
+}
+#GroupButton
+{
+    text-align: center;
+}
+#ImagenPreview
+{
+    height: 120px;
+    width: 120px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+#GifError
+{
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+
